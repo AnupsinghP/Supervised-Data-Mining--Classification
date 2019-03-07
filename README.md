@@ -2,8 +2,8 @@
 Supervised data mining classification implemented on Absenteeism at work
 Supervised data mining - Classification]
 Algorithms to be used in the project:
-1. Category3–DecisionTree[OptimizedversionofCARTorC4.5]
-2. Category1–SupportVectorMachine[LIBSVMradialbasisfunction(RBF)
+1.DecisionTree[OptimizedversionofCARTorC4.5]
+2.SupportVectorMachine[LIBSVMradialbasisfunction(RBF)
 kernel]
 Tools & Packages: Jupyter Notebook 5.5.0, Anaconda Inc
 Programming languages to be used in the project: Python 3.X
